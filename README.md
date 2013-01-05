@@ -20,6 +20,13 @@ This module only support fql at the moment. See the [fql documentation](https://
 This module does not support the graph api from facebook to access the open graph.
 Graph api is planed in future versions.
 
+# Access Token
+
+This module needs an access token from facebook. 
+For testing you could get an access token easily from [Facebooks API Explorer](https://developers.facebook.com/tools/explorer?method=GET&path=me). 
+Be aware the token could time out and needs enough rights to access the data.
+Last but not least facebooks documentation is your friend.
+
 ## FQL
 
 Use FQL to get data from facebook.
