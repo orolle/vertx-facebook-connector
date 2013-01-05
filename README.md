@@ -9,7 +9,6 @@ Default config:
       address  : "vertx.facebook-connector" // eventbus address
     }
 
-Currently attempts to support:
 
 # FQL
 
